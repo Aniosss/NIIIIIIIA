@@ -74,7 +74,13 @@ def load_level(filename):
     return list(map(lambda x: x.ljust(max_width, '.'), level_map))
 
 
-lvl = load_level('map.txt')
+print("Enter the number of map (1 or 2)")
+while True:
+    try:
+        lvl = load_level(input() + '.txt')
+        break
+    except:
+        print("Cannot load map, try again")
 WIDTH = HEIGHT = len(lvl[0]) * STEP
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
@@ -135,7 +141,6 @@ class Camera:
         self.dy = -(target.rect.y + target.rect.h // 2 - HEIGHT // 2)
 
 
-print(lvl)
 player, level_x, level_y = generate_level(lvl)
 camera = Camera()
 start_screen()
