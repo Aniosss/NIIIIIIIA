@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acff42b0-35dc-4b55-8fd8-0682f9529a52" name="Default Changelist" comment="Revert &quot;.&quot;&#10;&#10;This reverts commit 60a4524da195b88e66e425c13d0311423e1a9e5e.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="acff42b0-35dc-4b55-8fd8-0682f9529a52" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/map.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/te.py" beforeDir="false" afterPath="$PROJECT_DIR$/te.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609167537477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="newlevels">
+      <created>1609172695519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609172695519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,13 +110,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;.&quot;&#10;&#10;This reverts commit 60a4524da195b88e66e425c13d0311423e1a9e5e.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;.&quot;&#10;&#10;This reverts commit 60a4524da195b88e66e425c13d0311423e1a9e5e.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="newlevels" />
+    <option name="LAST_COMMIT_MESSAGE" value="newlevels" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="54" key="CommitChangelistDialog2" timestamp="1609168256818">
+    <state x="588" y="54" key="CommitChangelistDialog2" timestamp="1609172693786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="588" y="54" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609168256818" />
+    <state x="588" y="54" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609172693786" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1609167732221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -149,10 +154,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="184" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609168095061" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609168265762">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609172704779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609168265762" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609172704779" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1609167501167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
